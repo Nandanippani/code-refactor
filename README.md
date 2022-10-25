@@ -1,13 +1,10 @@
 # code-refactor
 
-## Summary of changes
-
-* Semantic HTML elements can be found throughout the source code
-* HTML elements follow a logical structure independent of styling and positioning
-* Image and icon elements contain accessible `alt` attributes
-* Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
-
+## Description 
+* Changed title as "Horiseon" with description to improve accessability and search engine optimization.
+* Used HTML semantics such as Header, Nav, Section, Article and Footer.
+* Improved logical structure of CSS styling.
+* Added 'alt' attribute to image elements. 
 
 ## Repository
 https://github.com/Nandanippani/code-refactor
